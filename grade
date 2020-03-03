@@ -1,6 +1,6 @@
 #!/bin/bash
 source grade_utils
-printf "\n\n### Gimatriya Part A ###\n"
+printf "\n\n### Grade Gimatriya Part A ###\n"
 make clean
 
 i=0
