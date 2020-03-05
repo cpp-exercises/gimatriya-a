@@ -21,4 +21,3 @@ TEST_CASE("Test gimatriya with punctuation") {
     CHECK(gimatriya("'א") == 1);
     CHECK(gimatriya("תש\"פ") == 780);
 }
-
